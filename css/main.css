@@ -1,0 +1,60 @@
+body{
+	background: #CCC;
+	margin: 0;
+}
+header{
+	width: 100%;
+	background: #DDD;
+	padding: 5px;
+}
+h1{
+	margin: 0;
+	text-align: center;
+}
+main{
+	padding:30px;
+}
+.credits{
+	text-align: center;
+}
+.ads{
+	width: 15%;
+	position: relative;
+	height: 500px;
+	float: left;
+}
+.here-things-happens{
+	position: relative;
+	width: 70%;
+	height: 500px;
+	float: left;
+}
+.inputs{
+	position: absolute;
+    width: 40px;
+}
+.inputs > input{
+	width: 100%;
+	margin: 0;
+}
+#top-left{
+	left: 0;
+}
+#bottom-left{
+	left: 0;
+	bottom: 0;
+}
+#top-right{
+	right: 0;
+}
+#bottom-right{
+	right: 0;
+	bottom: 0;
+}
+#copy-paste{
+	margin: 0 50px;
+	background: #FFF;
+	height: 100%;
+	border: 1px solid;
+}
+
