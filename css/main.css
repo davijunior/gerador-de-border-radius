@@ -39,19 +39,35 @@ main{
 	border-radius: 10px;
 	padding:0 5px;
 }
-#top-left{
+#top-left-y{
 	left: -10px;
 }
-#bottom-left{
+#bottom-left-y{
 	left: -10px;
 	bottom: 0;
 }
-#top-right{
+#top-right-y{
 	right: 0;
 }
-#bottom-right{
+#bottom-right-y{
 	right: 0;
 	bottom: 0;
+}
+#top-left-x{
+	left: 50px;
+	top: -25px;
+}
+#bottom-left-x{
+	left: 50px;
+	bottom: -25px;
+}
+#top-right-x{
+	right: 65px;
+	top: -25px;
+}
+#bottom-right-x{
+	right: 65px;
+	bottom: -25px;
 }
 #copy-paste{
 	margin: 0 50px;
